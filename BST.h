@@ -61,7 +61,7 @@ BST::BST() {
 }
 
 BST::~BST() { 
-  cout << "Kill BST" << endl; 
+  cout << "Kill BST" << endl;
     kill(rootPtr);
 }
 
